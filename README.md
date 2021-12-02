@@ -1,4 +1,2 @@
-# socialmediaconnect
-# socalmediaconnect
-# socalmediaconnectlive
+
 # smc
